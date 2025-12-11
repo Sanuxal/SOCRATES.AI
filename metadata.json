@@ -1,0 +1,5 @@
+{
+  "name": "SocratesAI - Tutor Educativo",
+  "description": "Un asistente educativo socrático para estudiantes de secundaria. Genera planes de estudio, resuelve dudas y ayuda con tareas utilizando tus propios apuntes.",
+  "requestFramePermissions": []
+}
